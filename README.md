@@ -9,7 +9,7 @@ The project uses thyroid ultrasound datasets:
 - DDTI Dataset
 
 Due to GitHub file size limitations, the dataset is available here:
-[Paste Google Drive Link Here]
+[(https://drive.google.com/drive/folders/1wy7bhbOzhf41rmqzB8x1dJ4PqRj412wx?usp=sharing)]
 
 ## Features
 - Image preprocessing and normalization
