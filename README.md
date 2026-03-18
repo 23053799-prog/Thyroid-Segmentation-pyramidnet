@@ -40,6 +40,9 @@ Due to GitHub file size limitations, the dataset is available here:
 
 ## Author
 Aakash Shah
-## How to Run
-1. Open the notebook in Jupyter Notebook or Google Colab
-2. Install required libraries:
+
+## Sample Results
+
+| Image 1 | Image 2 | Image 3 |
+|--------|--------|--------|
+| ![Image1](1image.png) | ![Image2](2image.png) | ![Image3](3image.png) |
