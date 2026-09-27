@@ -43,6 +43,6 @@ Aakash Shah
 
 ## Sample Results
 
-| Image 1 | Image 2 | Image 3 |
+| Image 3 |
 |--------|--------|--------|
-| ![Image 1](few_sample_images/1image.png) | ![Image 2](few_sample_images/2image.png) | ![Image 3](few_sample_images/3image.png) |
+| ![Image 3](few_sample_images/3image.png) |
